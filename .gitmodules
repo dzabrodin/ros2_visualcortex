@@ -1,0 +1,3 @@
+[submodule "visual_cortex/VisualCortex"]
+	path = visual_cortex/VisualCortex
+	url = https://github.com/dzabrodin/VisualCortex
